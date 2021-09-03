@@ -1,0 +1,59 @@
+{
+  "login":[
+    {
+      "name" : "vrunda", 
+      "password" : "v123"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Delhi",
+      "rating": "4.0",
+      "email": "mcdonald@test.com"
+    },
+    {
+      "name": "BBQ Center",
+      "email": "bbdn@test.com",
+      "address": "Jalgaon",
+      "rating": "4.8",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Haldiram nation",
+      "address": "Gurgaon",
+      "rating": "4.5",
+      "email": "haldiram@test.com"
+    },
+    {
+      "id": 7,
+      "name": "Stag and fizen",
+      "address": "Coventry",
+      "rating": "4.3",
+      "email": "stt@test.com"
+    },
+    {
+      "name": "BBQ vation",
+      "email": "bbq@test.com",
+      "rating": "4.9",
+      "address": "google",
+      "id": 9
+    },
+    {
+      "name": "Front Page",
+      "email": "frontpage@test.com",
+      "address": "Nasik",
+      "rating": "4.9",
+      "id": 11
+    },
+    {
+      "name": "Spice Magic",
+      "email": "spice@gmail.com",
+      "address": "Coventry",
+      "rating": "4.8",
+      "id": 12
+    }
+  ]
+}
